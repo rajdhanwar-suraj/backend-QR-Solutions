@@ -49,6 +49,6 @@ JWT_SECRET=your_secret_key
 ## Start the server:
 
 ```bash
-npm run dev
+npm run start
 ```
 The backend will be running on http://localhost:5000.
